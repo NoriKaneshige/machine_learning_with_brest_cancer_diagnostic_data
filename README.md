@@ -1,6 +1,6 @@
 # machine_learning_with_brest_cancer_diagnostic_data
 
-1) data loasing
+1) data loading
 2) data examination
 3) data split
 4) choosing a classifier and set it up
